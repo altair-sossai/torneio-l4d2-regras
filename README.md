@@ -42,6 +42,8 @@ Abaixo estão os principais elementos do Vanilla 4 Mod:
   
 - **Escolha do Tank**: A equipe terá a liberdade de escolher quem será o Tank em cada mapa, com a ressalva de que um mesmo jogador não pode ser o Tank mais de uma vez.
 
+- **Pontuação durante o Tank**: Durante o Tank a pontuação não ficará congelada em nenhuma hipótese, incluindo as finales que necessitam dos galões para conclusão da campanha. Dando assim mais dinamismo e opções para os times desenvolverem suas estratégias.
+
 - **Armas T1 e T2 Disponíveis**: As armas de níveis 1 e 2 (T1 e T2) estarão disponíveis nas campanhas, dando aos jogadores uma variedade maior de opções de armamento.
   
 - **Dano de Armas T2 Nerfado**: Para equilibrar a jogabilidade, as armas T2 terão seu dano nerfado.
