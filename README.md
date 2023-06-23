@@ -30,9 +30,31 @@ O torneio se desenrolará em duas fases distintas:
 
 - **Segunda Fase**: Os 6 melhores times da primeira fase avançam para esta etapa, a qual será disputada no formato mata-mata. As partidas serão em melhor de três jogos (md3), elevando ainda mais a exigência de consistência e habilidade dos jogadores.
 
-## Modo de Jogo
+## Modo de Jogo: Vanilla 4 Mod
 
-O torneio será realizado no modo Competitivo Zone com algumas alterações feitas em nosso servidor. O modo de jogo se baseia na variante competitiva do Left 4 Dead 2, dando ênfase a estratégia e cooperação intensa entre os jogadores.
+Este torneio empregará um modo de jogo personalizado chamado "Vanilla 4 Mod". Este modo é baseado no modo competitivo Zone, com várias modificações para proporcionar um desafio único e equilibrado.
+
+Abaixo estão os principais elementos do Vanilla 4 Mod:
+
+- **Presença da Witch**: A Witch estará presente em todos os mapas, tornando cada partida ainda mais desafiadora.
+  
+- **Pontuação Extra com a Witch**: Os sobreviventes que conseguirem eliminar a Witch sem receber danos ganharão 100 pontos extra.
+  
+- **Escolha do Tank**: A equipe terá a liberdade de escolher quem será o Tank em cada mapa, com a ressalva de que um mesmo jogador não pode ser o Tank mais de uma vez.
+
+- **Armas T1 e T2 Disponíveis**: As armas de níveis 1 e 2 (T1 e T2) estarão disponíveis nas campanhas, dando aos jogadores uma variedade maior de opções de armamento.
+  
+- **Dano de Armas T2 Nerfado**: Para equilibrar a jogabilidade, as armas T2 terão seu dano nerfado.
+  
+- **Uso Limitado de Armas T2**: O uso das armas T2 será limitado, impondo aos jogadores uma estratégia mais cuidadosa em relação à escolha e ao uso das armas.
+  
+- **Itens de Ataque e Defesa**: Molotovs, biles e pipebombs estarão disponíveis para os jogadores utilizarem.
+  
+- **Itens de Cenário Adicionados**: Elementos do cenário, como caixas, carros e ônibus, foram adicionados aos mapas para proporcionar uma experiência de jogo mais imersiva e desafiadora.
+  
+- **Quantidade de Horda Aumentada**: Em comparação com o modo Zone, a quantidade de horda no Vanilla 4 Mod é maior, tornando a sobrevivência ainda mais desafiadora.
+
+Este modo de jogo é desenhado para desafiar as habilidades e estratégias dos jogadores, oferecendo uma experiência competitiva intensa e única no universo de Left 4 Dead 2.
 
 Os detalhes das alterações podem ser encontrados no nosso [repositório GitHub](https://github.com/altair-sossai/l4d2-zone-server).
 
