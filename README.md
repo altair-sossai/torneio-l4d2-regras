@@ -30,6 +30,22 @@ O torneio se desenrolará em duas fases distintas:
 
 - **Segunda Fase**: Os 6 melhores times da primeira fase avançam para esta etapa, que será disputada no formato mata-mata. Os times que terminaram em primeiro e segundo lugar na fase anterior já estarão garantidos na semi-final. O time que terminou em terceiro lugar enfrentará o sexto colocado, e o vencedor desse confronto enfrentará o primeiro colocado. Da mesma forma, o time que terminou em quarto lugar enfrentará o quinto colocado, e o vencedor enfrentará o segundo colocado da fase anterior. As partidas serão em melhor de três jogos (md3). Cada equipe terá a oportunidade de escolher um mapa para jogar, e o terceiro mapa, se necessário, será decidido por sorteio. Vale ressaltar que não será permitido para uma equipe escolher a mesma campanha mais de uma vez nesta fase.
 
+## Datas dos Jogos
+
+A programação do torneio foi projetada para permitir a máxima flexibilidade para nossos jogadores. No entanto, existem algumas diretrizes que devem ser seguidas:
+
+- **Horário Preferencial**: A preferência é que os jogos sejam realizados às sextas, sábados e domingos, após as 19h. Isso permite que mais jogadores estejam disponíveis para competir.
+
+- **Acordo entre as Equipes**: As equipes devem entrar em consenso para escolher uma data que seja adequada para ambas. Isso promove a colaboração entre as equipes e garante que todos os jogadores possam participar.
+
+- **Finalização de Rodadas**: Uma rodada deve ser finalizada antes do início da próxima. Isso garante que todas as equipes avancem no torneio ao mesmo tempo e que a competição seja justa.
+
+- **Ausência de Propostas de Datas**: Caso uma equipe não apresente opções de datas para a realização do jogo, esta será considerada como desistente e sofrerá uma derrota por W.O (walkover).
+
+- **Respeito ao Calendário**: É crucial que todas as equipes respeitem o calendário do torneio e estejam prontas para jogar em suas respectivas datas agendadas. Atrasos e cancelamentos de última hora podem resultar em penalidades.
+
+Lembre-se, o objetivo deste torneio é promover a competição saudável e a diversão. Queremos garantir que todos tenham uma ótima experiência, por isso pedimos a todos os jogadores que sejam respeitosos e pontuais. Se surgirem conflitos ou problemas com o agendamento, por favor, entrem em contato com a equipe de organização o mais rápido possível.
+
 ## Modo de Jogo: Vanilla 4 Mod
 
 Este torneio empregará um modo de jogo personalizado chamado "Vanilla 4 Mod". Este modo é baseado no modo competitivo Zone, com várias modificações para proporcionar um desafio único e equilibrado.
