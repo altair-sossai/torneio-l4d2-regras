@@ -108,6 +108,19 @@ No caso de infrações a essas regras, as seguintes penalidades serão aplicadas
 
 Todas as penalidades são cumulativas e serão aplicadas a critério da organização do torneio. Nosso objetivo é garantir uma competição justa e divertida para todos os participantes.
 
+## Duração do Torneio
+
+Este torneio de Left 4 Dead 2 foi planejado com a intenção de ser um evento anual, proporcionando aos jogadores uma competição consistente e emocionante ao longo do ano. Aqui estão algumas informações importantes sobre a duração do torneio:
+
+- **Início do Torneio**: O torneio está previsto para começar no mês 6 (junho) de cada ano.
+
+- **Duração Estimada**: O torneio terá uma duração aproximada de 4 a 5 meses, proporcionando tempo suficiente para todas as fases serem concluídas e para que todas as equipes tenham a chance de competir ao máximo.
+
+- **Participação em Andamento**: Se o torneio já tiver começado, não se preocupe. Você terá a oportunidade de participar do próximo. Fique atento para a abertura das inscrições!
+
+- **Entre em Contato com a Organização**: Se você está interessado em participar do próximo torneio, entre em contato conosco para ser incluído na nossa comunidade. Nós iremos notificá-lo quando as inscrições estiverem abertas e quando o próximo torneio estiver prestes a começar. 
+
+Estamos ansiosos para ver você em ação! Este é o seu momento para brilhar, fazer novos amigos e, claro, desfrutar de algumas partidas intensas de Left 4 Dead 2.
 
 ## Organizadores
 
