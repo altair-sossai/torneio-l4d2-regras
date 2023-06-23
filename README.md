@@ -107,7 +107,7 @@ Para qualquer comunicação oficial ou consultas mais complexas, por favor, cont
 
 Site oficial: [l4d2.com.br](http://l4d2.com.br/)
 
-Canal da Twitch: [twitch.tv/torneiol4d2](https://www.twitch.tv/torneiol4d2)
+Jogo ao vivo na Twitch: [twitch.tv/torneiol4d2](https://www.twitch.tv/torneiol4d2)
 
 YouTube: [youtube.com/@TorneioLeft4Dead2Brasil](https://www.youtube.com/@TorneioLeft4Dead2Brasil)
 
