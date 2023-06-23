@@ -74,8 +74,6 @@ As inscrições para o torneio serão feitas através de contato direto com os o
 4. Todas as equipes devem estar prontas e online 15 minutos antes do início das partidas agendadas.
 5. Qualquer comportamento que viole os termos de serviço do jogo resultará em desqualificação.
 
-(As regras detalhadas estarão disponíveis no site de inscrição)
-
 ## Penalidades e Consequências
 
 Esta seção detalha as regras rigorosas que regem o comportamento dos jogadores durante o torneio, bem como as penalidades associadas à infração dessas regras.
