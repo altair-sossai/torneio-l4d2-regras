@@ -14,15 +14,17 @@ Este torneio ocorrerá totalmente online, permitindo que jogadores de todo o mun
 - Ter uma conexão de internet estável
 - Inscrição prévia no torneio
 
-## Equipes e Formato de Jogo
+## Formação das Equipes
 
-O torneio será composto por 8 equipes, cada uma com 6 jogadores. As equipes serão formadas por meio de sorteio para garantir a equidade entre os jogadores.
+O torneio será composto por 8 equipes, cada uma contando com 6 jogadores. A formação das equipes será realizada por meio de sorteio, a fim de garantir a equidade e diversidade entre os competidores.
 
-O torneio será dividido em duas fases:
+## Formato da Competição
 
-- **Primeira Fase**: Os times irão competir em um formato de pontos corridos, onde cada vitória concede ao time vencedor 3 pontos, o empate 1 ponto e a derrota não concede pontos. O critério de desempate será o saldo de pontos, calculado pela diferença entre pontos conquistados e pontos sofridos.
-  
-- **Segunda Fase**: Os 6 melhores times da primeira fase irão avançar para a segunda fase, que será um mata-mata em melhor de três partidas (md3).
+O torneio se desenrolará em duas fases distintas:
+
+- **Primeira Fase**: Nesta etapa, os times irão competir em um formato de pontos corridos. Cada vitória garante ao time vencedor 3 pontos, enquanto empates concedem 1 ponto e derrotas não resultam em pontos. Em caso de empate na pontuação geral, será usado como critério de desempate o saldo de pontos, calculado pela diferença entre pontos conquistados e pontos sofridos.
+
+- **Segunda Fase**: Os 6 melhores times da primeira fase avançam para esta etapa, a qual será disputada no formato mata-mata. As partidas serão em melhor de três jogos (md3), elevando ainda mais a exigência de consistência e habilidade dos jogadores.
 
 ## Modo de Jogo
 
