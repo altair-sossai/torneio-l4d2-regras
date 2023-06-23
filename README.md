@@ -6,7 +6,7 @@ Bem-vindo ao nosso torneio de Left 4 Dead 2! Este é o lugar onde os jogadores m
 
 ## Descrição do Evento
 
-Este torneio ocorrerá totalmente online, permitindo que jogadores de todo o mundo se unam, compitam e compartilhem a paixão por Left 4 Dead 2.
+Este torneio ocorrerá totalmente online, permitindo que jogadores de todo o Brasil se unam, compitam e compartilhem a paixão por Left 4 Dead 2. Nós valorizamos a diversidade de nossa comunidade de jogadores e estamos ansiosos para ver as diferentes táticas e estratégias que cada equipe trará para a competição. Prepare-se para uma experiência intensa e memorável!
 
 ## Requisitos
 
