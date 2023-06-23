@@ -132,6 +132,22 @@ Se você tiver alguma dúvida ou preocupação, não hesite em entrar em contato
 
 Para qualquer comunicação oficial ou consultas mais complexas, por favor, contate-nos por e-mail: altairsossai@gmail.com. Estamos ansiosos para proporcionar a você uma experiência de torneio excelente e memorável!
 
+## Site do Torneio
+
+Para mais informações detalhadas e atualizadas sobre o torneio, visite o nosso site oficial: [http://l4d2.com.br/](http://l4d2.com.br/). 
+
+No site, você encontrará:
+
+- **Calendário de Jogos**: A programação completa do torneio, incluindo as datas e horários dos próximos jogos.
+
+- **Equipes**: Uma lista de todas as equipes participantes, com detalhes sobre seus respectivos jogadores.
+
+- **Jogadores**: Perfis individuais dos jogadores participantes, com informações sobre seu desempenho no torneio.
+
+- **Resultados**: Os resultados atualizados de todas as partidas da primeira e segunda fase do torneio. 
+
+Visite regularmente o site para se manter atualizado sobre o progresso do torneio e acompanhar o desempenho de suas equipes e jogadores favoritos!
+
 ## Siga-nos nas Redes Sociais
 
 Site oficial: [l4d2.com.br](http://l4d2.com.br/)
