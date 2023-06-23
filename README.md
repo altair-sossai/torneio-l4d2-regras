@@ -16,7 +16,11 @@ Este torneio ocorrerá totalmente online, permitindo que jogadores de todo o mun
 
 ## Formação das Equipes
 
-O torneio será composto por 8 equipes, cada uma contando com 6 jogadores. A formação das equipes será realizada por meio de sorteio, a fim de garantir a equidade e diversidade entre os competidores.
+O torneio contará com a participação de 8 equipes, cada uma composta por 6 jogadores. No entanto, a participação em cada jogo será limitada a 4 jogadores por equipe. Ao longo do torneio, espera-se que todas as equipes realizem um rodízio entre os membros, garantindo que todos os 6 jogadores participem da competição.
+
+Cada equipe deverá se organizar internamente e eleger um líder. Este líder será o ponto focal para toda a comunicação com a organização do torneio.
+
+A formação inicial das equipes será conduzida pela organização do torneio. Serão escolhidos por sorteio dois jogadores para cada equipe, com a organização tomando a decisão com base em seu entendimento de quem são os jogadores de destaque. O objetivo desta estratégia é garantir a formação de equipes equilibradas, promovendo assim uma competição justa e emocionante.
 
 ## Formato da Competição
 
