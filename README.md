@@ -62,8 +62,6 @@ Os detalhes das alterações podem ser encontrados no nosso [repositório GitHub
 
 As inscrições para o torneio serão feitas através de contato direto com os organizadores. Por favor, envie uma mensagem para um dos organizadores listados abaixo para registrar sua equipe.
 
-## Organizadores
-
 - [Altair](https://steamcommunity.com/profiles/76561198141521946/)
 - [Fear](https://steamcommunity.com/profiles/76561198135872482/)
 - [Lyon](https://steamcommunity.com/profiles/76561198076227103/)
@@ -95,9 +93,15 @@ No caso de infrações a essas regras, as seguintes penalidades serão aplicadas
 Todas as penalidades são cumulativas e serão aplicadas a critério da organização do torneio. Nosso objetivo é garantir uma competição justa e divertida para todos os participantes.
 
 
-## Contacto
+## Organizadores
 
-Em caso de dúvidas ou preocupações, por favor contate a equipe organizadora através do e-mail: altairsossai@gmail.com
+Se você tiver alguma dúvida ou preocupação, não hesite em entrar em contato com a equipe de organização do torneio. Aqui estão os perfis Steam dos principais organizadores:
+
+- [Altair](https://steamcommunity.com/profiles/76561198141521946/)
+- [Fear](https://steamcommunity.com/profiles/76561198135872482/)
+- [Lyon](https://steamcommunity.com/profiles/76561198076227103/)
+
+Para qualquer comunicação oficial ou consultas mais complexas, por favor, contate-nos por e-mail: altairsossai@gmail.com. Estamos ansiosos para proporcionar a você uma experiência de torneio excelente e memorável!
 
 ## Siga-nos nas Redes Sociais
 
