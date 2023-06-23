@@ -56,6 +56,23 @@ As inscrições para o torneio serão feitas através de contato direto com os o
 
 (As regras detalhadas estarão disponíveis no site de inscrição)
 
+## Penalidades e Consequências
+
+Esta seção detalha as regras rigorosas que regem o comportamento dos jogadores durante o torneio, bem como as penalidades associadas à infração dessas regras.
+
+Espera-se que todos os participantes demonstrem esportividade e respeito durante toda a duração do torneio. A exploração de bugs, o uso de atalhos não permitidos, a prática de anti-jogo, ofensas ou qualquer outro comportamento que proporcionem uma vantagem injusta são estritamente proibidos.
+
+No caso de infrações a essas regras, as seguintes penalidades serão aplicadas:
+
+1. **Perda de Pontos**: Se um jogador ou equipe for pego utilizando de vantagens injustas, a punição inicial será a perda de pontos conquistados durante o jogo no qual a infração ocorreu.
+
+2. **Derrota por Infringimento**: Caso a penalidade de perda de pontos não seja suficiente para compensar a vantagem injusta obtida ou caso o jogador ou equipe continue a infringir as regras, a equipe poderá ser considerada derrotada no jogo em questão, independentemente do resultado original da partida.
+
+3. **Desqualificação do Jogador**: Se um jogador persistir em comportamentos inadequados, mesmo após as penalidades acima, o mesmo pode ser eliminado do torneio.
+
+Todas as penalidades são cumulativas e serão aplicadas a critério da organização do torneio. Nosso objetivo é garantir uma competição justa e divertida para todos os participantes.
+
+
 ## Contacto
 
 Em caso de dúvidas ou preocupações, por favor contate a equipe organizadora através do e-mail: altairsossai@gmail.com
