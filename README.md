@@ -98,6 +98,8 @@ As inscrições para o torneio serão feitas através de contato direto com os o
 
 2. **Remarcação de jogos**: O jogo só pode ser remarcado se a solicitação for feita 24 horas antes da data e horário originalmente programados. As solicitações de remarcação recebidas após esse período não serão consideradas e o jogo ocorrerá conforme o agendamento original.
 
+   **Observação:** Esta regra pode ser flexibilizada se ambas as equipes concordarem em mudar a data do jogo. Este acordo deve ser comunicado e confirmado com a coordenação do campeonato antes do início da partida.
+
 3. **Uso do recurso de pausa**: Durante toda a duração do campeonato, cada equipe tem direito a um máximo de 3 pausas. Por favor, use este recurso com responsabilidade e considere a experiência de todos os participantes.
 
 ## Regras do Dia do Jogo
