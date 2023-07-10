@@ -92,6 +92,29 @@ As inscrições para o torneio serão feitas através de contato direto com os o
 4. Todas as equipes devem estar prontas e online 15 minutos antes do início das partidas agendadas.
 5. Qualquer comportamento que viole os termos de serviço do jogo resultará em desqualificação.
 
+## Agendamento de Jogos
+
+1. **Responsabilidade das equipes**: As datas dos jogos devem ser marcadas pelas próprias equipes. A coordenação do campeonato não intervirá nesse processo, a menos que seja absolutamente necessário.
+
+2. **Remarcação de jogos**: O jogo só pode ser remarcado se a solicitação for feita 24 horas antes da data e horário originalmente programados. As solicitações de remarcação recebidas após esse período não serão consideradas e o jogo ocorrerá conforme o agendamento original.
+
+## Regras do Dia do Jogo
+
+1. **Atraso**: No dia agendado para o jogo, será permitido um atraso máximo de 15 minutos. Se a equipe não estiver pronta para jogar após esse período, as regras a seguir serão aplicadas.
+
+2. **Ausência de jogadores**: Se os 4 jogadores de uma equipe não estiverem presentes no momento do jogo, a equipe terá duas opções:
+
+    - Jogar com o número atual de jogadores presentes. Neste caso, nenhum jogador adicional ou substituto será permitido uma vez que o jogo tenha começado.
+    - Conceder a vitória à equipe adversária. Neste caso, a equipe que faltou ao jogo perderá automaticamente.
+
+Lembre-se de que essas regras foram estabelecidas para garantir que o campeonato seja justo e agradável para todos. Agradecemos a sua compreensão e cooperação.
+
+Boa sorte a todos os participantes!
+
+## Notas
+
+Para remarcar um jogo, entre em contato com a coordenação do campeonato pelo menos 24 horas antes da data e hora do jogo agendado originalmente. Tente incluir detalhes suficientes para justificar o pedido de remarcação, pois isso facilitará o processo de decisão.
+
 ## Penalidades e Consequências
 
 Esta seção detalha as regras rigorosas que regem o comportamento dos jogadores durante o torneio, bem como as penalidades associadas à infração dessas regras.
