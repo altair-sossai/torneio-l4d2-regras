@@ -28,6 +28,11 @@ O torneio se desenrolará em duas fases distintas:
 
 - **Primeira Fase**: Nesta etapa, todas as equipes se enfrentarão em uma única partida (md1). A campanha para cada rodada será decidida por sorteio, e todas as equipes jogarão a mesma campanha durante a rodada. Cada vitória concederá 3 pontos à equipe vencedora, um empate concederá 1 ponto e uma derrota não resultará em nenhum ponto. Em caso de empate na pontuação geral, será usado como critério de desempate o saldo de pontos, calculado pela diferença entre pontos conquistados e pontos sofridos.
 
+![image](https://github.com/altair-sossai/torneio-l4d2-regras/assets/11737883/2512c4eb-0991-42b6-a974-0fd3d0855043)
+<p align="center">
+Exemplo da tabela de pontos da primeira fase
+</p>
+
 - **Segunda Fase**: Os 6 melhores times da primeira fase avançam para esta etapa, que será disputada no formato mata-mata. Os times que terminaram em primeiro e segundo lugar na fase anterior já estarão garantidos na semi-final. O time que terminou em terceiro lugar enfrentará o sexto colocado, e o vencedor desse confronto enfrentará o primeiro colocado. Da mesma forma, o time que terminou em quarto lugar enfrentará o quinto colocado, e o vencedor enfrentará o segundo colocado da fase anterior. As partidas serão em melhor de três jogos (md3). Cada equipe terá a oportunidade de escolher um mapa para jogar, e o terceiro mapa, se necessário, será decidido por sorteio. Vale ressaltar que não será permitido para uma equipe escolher a mesma campanha mais de uma vez nesta fase.
 
 ## Datas dos Jogos
