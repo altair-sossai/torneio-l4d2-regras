@@ -119,6 +119,14 @@ As inscrições para o torneio serão feitas através de contato direto com os o
 
    **Observações Importantes**: Para remarcar um jogo, por favor, comunique a coordenação do campeonato com, no mínimo, 24 horas de antecedência à data e horário originalmente agendados para a partida. Ao solicitar a remarcação, inclua detalhes suficientes para justificar o pedido. Isso facilitará o processo de análise e decisão por parte da coordenação.
 
+3. **Problemas de conexão**: Será possível substituir um jogador com o jogo em andamento se for comprovado que o jogador está com problemas de conexão. A substituição deve ser realizada rapidamente para minimizar a interrupção do jogo. No entanto, jogadores atrasados ou que não estavam no jogo no momento do início do game ainda seguem a regra antiga, sendo permitida a entrada em campo apenas antes do comando `!ready`.
+
+4. **Restart**: O restart deve ser o último recurso a ser utilizado em situações totalmente inevitáveis. Ele só deve ser acionado quando não houver outra alternativa para resolver problemas técnicos graves que interfiram no andamento justo do jogo.
+
+5. **Respeito às Regras**: As regras são estabelecidas para balizar o jogo e precisam ser respeitadas por todas as equipes e jogadores participantes. A cooperação e o cumprimento das regras são fundamentais para garantir um ambiente justo e competitivo para todos os envolvidos no campeonato.
+
+6. **Intervenção dos Administradores**: Os administradores devem interferir no andamento do jogo apenas em casos extremamente graves, quando não houver alternativa viável para resolver uma situação que comprometa a integridade da competição. É recomendado que a intervenção dos administradores seja evitada ao máximo, promovendo assim a autonomia e responsabilidade dos jogadores em seguir as regras estabelecidas.
+
 ## Penalidades e Consequências
 
 Esta seção detalha as regras rigorosas que regem o comportamento dos jogadores durante o torneio, bem como as penalidades associadas à infração dessas regras.
