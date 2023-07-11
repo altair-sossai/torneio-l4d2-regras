@@ -133,6 +133,8 @@ A equipe também pode optar por conceder a vitória à equipe adversária. Neste
 
 A substituição de um jogador durante o jogo será permitida em casos de problemas de conexão comprovados. A substituição deve ser feita o mais rápido possível para minimizar a interrupção do jogo. Porém, jogadores que chegarem atrasados ou que não estiverem presentes no início do jogo ainda estão sujeitos à regra da seção 2.1, sendo permitida a entrada em campo apenas antes do comando `!ready`.
 
+- Os jogadores terão 10 minutos para localizar um substituto em caso de problemas de conexão. A substituição deve ser feita o mais rápido possível para minimizar a interrupção do jogo. Caso não seja possível encontrar um substituto dentro deste período, o jogo continuará com os jogadores restantes.
+
 ### 4. Reinício do Jogo (Restart)
 
 O reinício do jogo deve ser a última opção, utilizada somente em situações totalmente inevitáveis. Esta alternativa só pode ser acionada quando não houver outra solução para resolver problemas técnicos graves que interfiram na justiça do jogo.
