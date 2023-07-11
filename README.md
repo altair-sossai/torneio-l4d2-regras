@@ -109,23 +109,41 @@ As inscrições para o torneio serão feitas através de contato direto com os o
 
 ## Regras do Dia do Jogo
 
-1. **Pontualidade**: A pontualidade é essencial para o bom andamento do campeonato. No dia do jogo, toleraremos um atraso máximo de 15 minutos. Caso a equipe não esteja pronta para iniciar a partida após este período, serão aplicadas as regras descritas a seguir.
+Este documento fornece um conjunto de regras para o Dia do Jogo, estabelecendo diretrizes claras para a condução da competição. As regras foram divididas em diferentes seções para facilitar a compreensão e aderência.
 
-2. **Política de Ausência e Substituição de Jogadores**: Na eventualidade de ausência de jogadores, a equipe enfrenta duas alternativas:
+### 1. Pontualidade
 
-   - **Jogar com os jogadores presentes**: A equipe pode optar por jogar com o número atual de jogadores presentes. Porém, é importante ressaltar que a entrada ou saída de jogadores da equipe será permitida apenas antes do início do round, durante o comando `!ready`. Uma vez iniciada a partida, não será permitido a entrada de jogadores adicionais ou substitutos.
+A pontualidade é essencial para o bom andamento do campeonato. No dia do jogo, um atraso máximo de 15 minutos será tolerado. Caso a equipe não esteja pronta para iniciar a partida após este período, serão aplicadas penalidades conforme descritas nas regras subsequentes.
 
-   - **Concessão de vitória**: A equipe pode decidir conceder a vitória à equipe adversária. Caso essa opção seja escolhida, a equipe ausente será automaticamente declarada como perdedora.
+### 2. Política de Ausência e Substituição de Jogadores
 
-   **Observações Importantes**: Para remarcar um jogo, por favor, comunique a coordenação do campeonato com, no mínimo, 24 horas de antecedência à data e horário originalmente agendados para a partida. Ao solicitar a remarcação, inclua detalhes suficientes para justificar o pedido. Isso facilitará o processo de análise e decisão por parte da coordenação.
+No caso de ausência de jogadores, a equipe tem duas opções:
 
-3. **Problemas de conexão**: Será possível substituir um jogador com o jogo em andamento se for comprovado que o jogador está com problemas de conexão. A substituição deve ser realizada rapidamente para minimizar a interrupção do jogo. No entanto, jogadores atrasados ou que não estavam no jogo no momento do início do game ainda seguem a regra antiga, sendo permitida a entrada em campo apenas antes do comando `!ready`.
+   #### 2.1 Jogar com os jogadores presentes
+   
+A equipe pode optar por jogar com o número atual de jogadores presentes. No entanto, a entrada ou saída de jogadores da equipe será permitida apenas antes do início do round, durante o comando `!ready`. Uma vez a partida iniciada, a entrada de jogadores adicionais ou substitutos não será permitida.
 
-4. **Restart**: O restart deve ser o último recurso a ser utilizado em situações totalmente inevitáveis. Ele só deve ser acionado quando não houver outra alternativa para resolver problemas técnicos graves que interfiram no andamento justo do jogo.
+   #### 2.2 Concessão de vitória
+   
+A equipe também pode optar por conceder a vitória à equipe adversária. Neste caso, a equipe ausente será automaticamente declarada perdedora.
 
-5. **Respeito às Regras**: As regras são estabelecidas para balizar o jogo e precisam ser respeitadas por todas as equipes e jogadores participantes. A cooperação e o cumprimento das regras são fundamentais para garantir um ambiente justo e competitivo para todos os envolvidos no campeonato.
+**Observações Importantes**: Para remarcar um jogo, é necessário que a coordenação do campeonato seja informada com, no mínimo, 24 horas de antecedência à data e horário originalmente agendados para a partida. As solicitações de remarcação devem incluir detalhes suficientes para justificar o pedido, facilitando o processo de análise e decisão por parte da coordenação.
 
-6. **Intervenção dos Administradores**: Os administradores devem interferir no andamento do jogo apenas em casos extremamente graves, quando não houver alternativa viável para resolver uma situação que comprometa a integridade da competição. É recomendado que a intervenção dos administradores seja evitada ao máximo, promovendo assim a autonomia e responsabilidade dos jogadores em seguir as regras estabelecidas.
+### 3. Problemas de Conexão
+
+A substituição de um jogador durante o jogo será permitida em casos de problemas de conexão comprovados. A substituição deve ser feita o mais rápido possível para minimizar a interrupção do jogo. Porém, jogadores que chegarem atrasados ou que não estiverem presentes no início do jogo ainda estão sujeitos à regra da seção 2.1, sendo permitida a entrada em campo apenas antes do comando `!ready`.
+
+### 4. Reinício do Jogo (Restart)
+
+O reinício do jogo deve ser a última opção, utilizada somente em situações totalmente inevitáveis. Esta alternativa só pode ser acionada quando não houver outra solução para resolver problemas técnicos graves que interfiram na justiça do jogo.
+
+### 5. Respeito às Regras
+
+Todas as regras devem ser respeitadas por todas as equipes e jogadores participantes. A cooperação e o cumprimento das regras são fundamentais para garantir um ambiente de jogo justo e competitivo para todos os envolvidos.
+
+### 6. Intervenção dos Administradores
+
+A intervenção dos administradores no jogo deve ser a última opção, utilizada apenas em casos extremos, onde não haja outra alternativa viável para resolver uma situação que comprometa a integridade da competição. É aconselhado que se evite ao máximo a intervenção dos administradores, promovendo assim a autonomia e a responsabilidade dos jogadores em seguir as regras estabelecidas.
 
 ## Penalidades e Consequências
 
