@@ -135,15 +135,21 @@ A substituição de um jogador durante o jogo será permitida em casos de proble
 
 - Os jogadores terão 10 minutos para localizar um substituto em caso de problemas de conexão. A substituição deve ser feita o mais rápido possível para minimizar a interrupção do jogo. Caso não seja possível encontrar um substituto dentro deste período, o jogo continuará com os jogadores restantes.
 
-### 4. Reinício do Jogo (Restart)
+### 4. Regra do Comando `!pause`
+
+Durante o jogo, os times têm o direito de utilizar o comando `!pause` no máximo 3 vezes. O tempo de pausa não deve ultrapassar 5 minutos, salvo em casos de problemas de conexão que estão descritos na seção 3. Após este tempo, o jogo deve ser retomado com o comando `!forceunpause`. 
+
+Exceções para problemas de conexão serão avaliadas pela equipe de administração do jogo.
+
+### 5. Reinício do Jogo (Restart)
 
 O reinício do jogo deve ser a última opção, utilizada somente em situações totalmente inevitáveis. Esta alternativa só pode ser acionada quando não houver outra solução para resolver problemas técnicos graves que interfiram na justiça do jogo.
 
-### 5. Respeito às Regras
+### 6. Respeito às Regras
 
 Todas as regras devem ser respeitadas por todas as equipes e jogadores participantes. A cooperação e o cumprimento das regras são fundamentais para garantir um ambiente de jogo justo e competitivo para todos os envolvidos.
 
-### 6. Intervenção dos Administradores
+### 7. Intervenção dos Administradores
 
 A intervenção dos administradores no jogo deve ser a última opção, utilizada apenas em casos extremos, onde não haja outra alternativa viável para resolver uma situação que comprometa a integridade da competição. É aconselhado que se evite ao máximo a intervenção dos administradores, promovendo assim a autonomia e a responsabilidade dos jogadores em seguir as regras estabelecidas.
 
