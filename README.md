@@ -155,7 +155,7 @@ A intervenção dos administradores no jogo deve ser a última opção, utilizad
 
 - Em casos em que algum jogador morra em decorrência de um bug ou se a equipe adversária utilizar um bug para eliminar outro jogador, o administrador intervém para reviver o jogador afetado com o HP que ele possuía antes do incidente. Nesse momento, o jogo será pausado para garantir a correção da situação e manter a justiça na competição.
 
-- Além disso, em alguns mapas, principalmente no "finale", pode haver o problema das pills não aparecerem para ambas as equipes. Nessas circunstâncias, o administrador também intervém para equilibrar o jogo, criando as pills manualmente e garantindo que todas as equipes tenham acesso igualitário aos recursos.
+- Em alguns mapas, principalmente no "finale", pode haver o problema das pills não aparecerem para uma das equipes. Nessas circunstâncias, o administrador também intervém para equilibrar o jogo, criando as pills manualmente e garantindo que todas as equipes tenham acesso igualitário aos recursos.
 
 ## Penalidades e Consequências
 
