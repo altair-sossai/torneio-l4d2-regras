@@ -153,6 +153,10 @@ Todas as regras devem ser respeitadas por todas as equipes e jogadores participa
 
 A intervenção dos administradores no jogo deve ser a última opção, utilizada apenas em casos extremos, onde não haja outra alternativa viável para resolver uma situação que comprometa a integridade da competição. É aconselhado que se evite ao máximo a intervenção dos administradores, promovendo assim a autonomia e a responsabilidade dos jogadores em seguir as regras estabelecidas.
 
+- Em casos em que algum jogador morra em decorrência de um bug ou se a equipe adversária utilizar um bug para eliminar outro jogador, o administrador intervém para reviver o jogador afetado com o HP que ele possuía antes do incidente. Nesse momento, o jogo será pausado para garantir a correção da situação e manter a justiça na competição.
+
+- Além disso, em alguns mapas, principalmente no "finale", pode haver o problema das pills não aparecerem para ambas as equipes. Nessas circunstâncias, o administrador também intervém para equilibrar o jogo, criando as pills manualmente e garantindo que todas as equipes tenham acesso igualitário aos recursos.
+
 ## Penalidades e Consequências
 
 Esta seção detalha as regras rigorosas que regem o comportamento dos jogadores durante o torneio, bem como as penalidades associadas à infração dessas regras.
