@@ -8,32 +8,21 @@ Bem-vindo ao nosso torneio de Left 4 Dead 2! Este é o lugar onde os jogadores m
 
 Este torneio ocorrerá totalmente online, permitindo que jogadores de todo o Brasil se unam, compitam e compartilhem a paixão por Left 4 Dead 2. Nós valorizamos a diversidade de nossa comunidade de jogadores e estamos ansiosos para ver as diferentes táticas e estratégias que cada equipe trará para a competição. Prepare-se para uma experiência intensa e memorável!
 
-## Requisitos
-
-- Ter uma cópia oficial do jogo Left 4 Dead 2 na Steam
-- Ter uma conexão de internet estável
-- Inscrição prévia no torneio
-
 ## Formação das Equipes
 
-O torneio contará com a participação de 8 equipes, cada uma composta por 6 jogadores. No entanto, a participação em cada jogo será limitada a 4 jogadores por equipe. Ao longo do torneio, espera-se que todas as equipes realizem um rodízio entre os membros, garantindo que todos os 6 jogadores participem da competição.
+O torneio contará com a participação de 8 equipes, cada uma composta por 4 jogadores.
 
 Cada equipe deverá se organizar internamente e eleger um líder. Este líder será o ponto focal para toda a comunicação com a organização do torneio.
 
-A formação inicial das equipes será conduzida pela organização do torneio. Serão escolhidos por sorteio dois jogadores para cada equipe, com a organização tomando a decisão com base em seu entendimento de quem são os jogadores de destaque. O objetivo desta estratégia é garantir a formação de equipes equilibradas, promovendo assim uma competição justa e emocionante.
+A formação inicial das equipes será conduzida pela organização do torneio. Serão escolhidos por sorteio dois jogadores para cada equipe, com a organização tomando a decisão com base em seu entendimento de quem são os jogadores de destaque. O objetivo desta estratégia é garantir a formação de equipes equilibradas, promovendo assim uma competição justa.
 
 ## Formato da Competição
 
-O torneio se desenrolará em duas fases distintas:
+O torneio começará diretamente na fase de mata-mata, com as 8 equipes já qualificadas para esta etapa. 
 
-- **Primeira Fase**: Nesta etapa, todas as equipes se enfrentarão em uma única partida (md1). A campanha para cada rodada será decidida por sorteio, e todas as equipes jogarão a mesma campanha durante a rodada. Cada vitória concederá 3 pontos à equipe vencedora, um empate concederá 1 ponto e uma derrota não resultará em nenhum ponto. Em caso de empate na pontuação geral, será usado como critério de desempate o saldo de pontos, calculado pela diferença entre pontos conquistados e pontos sofridos.
+- **Fase de Mata-Mata**: As 8 equipes se enfrentarão em confrontos diretos, com partidas no formato melhor de três jogos (md3). Cada equipe terá a oportunidade de escolher um mapa para jogar, e o terceiro mapa, se necessário, será decidido por sorteio. Não será permitido que uma equipe escolha a mesma campanha mais de uma vez durante esta fase. 
 
-![image](https://github.com/altair-sossai/torneio-l4d2-regras/assets/11737883/2512c4eb-0991-42b6-a974-0fd3d0855043)
-<p align="center">
-Exemplo da tabela de pontos da primeira fase
-</p>
-
-- **Segunda Fase**: Os 6 melhores times da primeira fase avançam para esta etapa, que será disputada no formato mata-mata. Os times que terminaram em primeiro e segundo lugar na fase anterior já estarão garantidos na semi-final. O time que terminou em terceiro lugar enfrentará o sexto colocado, e o vencedor desse confronto enfrentará o primeiro colocado. Da mesma forma, o time que terminou em quarto lugar enfrentará o quinto colocado, e o vencedor enfrentará o segundo colocado da fase anterior. As partidas serão em melhor de três jogos (md3). Cada equipe terá a oportunidade de escolher um mapa para jogar, e o terceiro mapa, se necessário, será decidido por sorteio. Vale ressaltar que não será permitido para uma equipe escolher a mesma campanha mais de uma vez nesta fase.
+Os vencedores avançarão para as próximas fases até que seja definido o grande campeão do torneio.
 
 ## Datas dos Jogos
 
@@ -51,35 +40,11 @@ A programação do torneio foi projetada para permitir a máxima flexibilidade p
 
 Lembre-se, o objetivo deste torneio é promover a competição saudável e a diversão. Queremos garantir que todos tenham uma ótima experiência, por isso pedimos a todos os jogadores que sejam respeitosos e pontuais. Se surgirem conflitos ou problemas com o agendamento, por favor, entrem em contato com a equipe de organização o mais rápido possível.
 
-## Modo de Jogo: Vanilla 4 Mod
+## Modo de Jogo: ZoneMod
 
-Este torneio empregará um modo de jogo personalizado chamado "Vanilla 4 Mod". Este modo é baseado no modo competitivo Zone, com várias modificações para proporcionar um desafio único e equilibrado.
+Este torneio utilizará o modo de jogo chamado "ZoneMod", amplamente reconhecido na comunidade competitiva de Left 4 Dead 2 por seu equilíbrio e desafios.
 
-Abaixo estão os principais elementos do Vanilla 4 Mod:
-
-- **Presença da Witch**: A Witch estará presente em todos os mapas, tornando cada partida ainda mais desafiadora.
-  
-- **Pontuação Extra com a Witch**: Os sobreviventes que conseguirem eliminar a Witch sem receber danos ganharão 100 pontos extra.
-  
-- **Escolha do Tank**: A equipe terá a liberdade de escolher quem será o Tank em cada mapa, com a ressalva de que um mesmo jogador não pode ser o Tank mais de uma vez.
-
-- **Pontuação durante o Tank**: Durante o Tank a pontuação não ficará congelada em nenhuma hipótese, incluindo as finales que necessitam dos galões para conclusão da campanha. Dando assim mais dinamismo e opções para os times desenvolverem suas estratégias.
-
-- **Armas T1 e T2 Disponíveis**: As armas de níveis 1 e 2 (T1 e T2) estarão disponíveis nas campanhas, dando aos jogadores uma variedade maior de opções de armamento.
-  
-- **Dano de Armas T2 Nerfado**: Para equilibrar a jogabilidade, as armas T2 terão seu dano nerfado.
-  
-- **Uso Limitado de Armas T2**: O uso das armas T2 será limitado, impondo aos jogadores uma estratégia mais cuidadosa em relação à escolha e ao uso das armas.
-  
-- **Itens de Ataque e Defesa**: Molotovs, biles e pipebombs estarão disponíveis para os jogadores utilizarem.
-  
-- **Itens de Cenário Adicionados**: Elementos do cenário, como caixas, carros e ônibus, foram adicionados aos mapas para proporcionar uma experiência de jogo mais imersiva e desafiadora.
-  
-- **Quantidade de Horda Aumentada**: Em comparação com o modo Zone, a quantidade de horda no Vanilla 4 Mod é maior, tornando a sobrevivência ainda mais desafiadora.
-
-Este modo de jogo é desenhado para desafiar as habilidades e estratégias dos jogadores, oferecendo uma experiência competitiva intensa e única no universo de Left 4 Dead 2.
-
-Os detalhes das alterações podem ser encontrados no nosso [repositório GitHub](https://github.com/altair-sossai/l4d2-zone-server).
+Os detalhes podem ser encontrados no nosso [repositório GitHub](https://github.com/altair-sossai/l4d2-zone-server).
 
 ## Inscrições
 
@@ -87,7 +52,6 @@ As inscrições para o torneio serão feitas através de contato direto com os o
 
 - [Altair](https://steamcommunity.com/profiles/76561198141521946/)
 - [Fear](https://steamcommunity.com/profiles/76561198135872482/)
-- [Lyon](https://steamcommunity.com/profiles/76561198076227103/)
 
 ## Regras
 
@@ -115,41 +79,21 @@ Este documento fornece um conjunto de regras para o Dia do Jogo, estabelecendo d
 
 A pontualidade é essencial para o bom andamento do campeonato. No dia do jogo, um atraso máximo de 15 minutos será tolerado. Caso a equipe não esteja pronta para iniciar a partida após este período, serão aplicadas penalidades conforme descritas nas regras subsequentes.
 
-### 2. Política de Ausência e Substituição de Jogadores
-
-No caso de ausência de jogadores, a equipe tem duas opções:
-
-   #### 2.1 Jogar com os jogadores presentes
-   
-A equipe pode optar por jogar com o número atual de jogadores presentes. No entanto, a entrada ou saída de jogadores da equipe será permitida apenas antes do início do round, durante o comando `!ready`. Uma vez a partida iniciada, a entrada de jogadores adicionais ou substitutos não será permitida.
-
-   #### 2.2 Concessão de vitória
-   
-A equipe também pode optar por conceder a vitória à equipe adversária. Neste caso, a equipe ausente será automaticamente declarada perdedora.
-
-**Observações Importantes**: Para remarcar um jogo, é necessário que a coordenação do campeonato seja informada com, no mínimo, 24 horas de antecedência à data e horário originalmente agendados para a partida. As solicitações de remarcação devem incluir detalhes suficientes para justificar o pedido, facilitando o processo de análise e decisão por parte da coordenação.
-
-### 3. Problemas de Conexão
-
-A substituição de um jogador durante o jogo será permitida em casos de problemas de conexão comprovados. A substituição deve ser feita o mais rápido possível para minimizar a interrupção do jogo. Porém, jogadores que chegarem atrasados ou que não estiverem presentes no início do jogo ainda estão sujeitos à regra da seção 2.1, sendo permitida a entrada em campo apenas antes do comando `!ready`.
-
-- Os jogadores terão 10 minutos para localizar um substituto em caso de problemas de conexão. A substituição deve ser feita o mais rápido possível para minimizar a interrupção do jogo. Caso não seja possível encontrar um substituto dentro deste período, o jogo continuará com os jogadores restantes.
-
-### 4. Regra do Comando `!pause`
+### 2. Regra do Comando `!pause`
 
 Durante o jogo, os times têm o direito de utilizar o comando `!pause` no máximo 3 vezes. O tempo de pausa não deve ultrapassar 5 minutos, salvo em casos de problemas de conexão que estão descritos na seção 3. Após este tempo, o jogo deve ser retomado com o comando `!forceunpause`. 
 
 Exceções para problemas de conexão serão avaliadas pela equipe de administração do jogo.
 
-### 5. Reinício do Jogo (Restart)
+### 3. Reinício do Jogo (Restart)
 
 O reinício do jogo deve ser a última opção, utilizada somente em situações totalmente inevitáveis. Esta alternativa só pode ser acionada quando não houver outra solução para resolver problemas técnicos graves que interfiram na justiça do jogo.
 
-### 6. Respeito às Regras
+### 4. Respeito às Regras
 
 Todas as regras devem ser respeitadas por todas as equipes e jogadores participantes. A cooperação e o cumprimento das regras são fundamentais para garantir um ambiente de jogo justo e competitivo para todos os envolvidos.
 
-### 7. Intervenção dos Administradores
+### 5. Intervenção dos Administradores
 
 A intervenção dos administradores no jogo deve ser a última opção, utilizada apenas em casos extremos, onde não haja outra alternativa viável para resolver uma situação que comprometa a integridade da competição. É aconselhado que se evite ao máximo a intervenção dos administradores, promovendo assim a autonomia e a responsabilidade dos jogadores em seguir as regras estabelecidas.
 
@@ -179,7 +123,7 @@ Este torneio de Left 4 Dead 2 foi planejado com a intenção de ser um evento an
 
 - **Início do Torneio**: O torneio está previsto para começar no mês 6 (junho) de cada ano.
 
-- **Duração Estimada**: O torneio terá uma duração aproximada de 4 a 5 meses, proporcionando tempo suficiente para todas as fases serem concluídas e para que todas as equipes tenham a chance de competir ao máximo.
+- **Duração Estimada**: O torneio terá uma duração aproximada de 1 a 2 meses, proporcionando tempo suficiente para todas as fases serem concluídas e para que todas as equipes tenham a chance de competir ao máximo.
 
 - **Participação em Andamento**: Se o torneio já tiver começado, não se preocupe. Você terá a oportunidade de participar do próximo. Fique atento para a abertura das inscrições!
 
@@ -193,13 +137,12 @@ Se você tiver alguma dúvida ou preocupação, não hesite em entrar em contato
 
 - [Altair](https://steamcommunity.com/profiles/76561198141521946/)
 - [Fear](https://steamcommunity.com/profiles/76561198135872482/)
-- [Lyon](https://steamcommunity.com/profiles/76561198076227103/)
 
 Para qualquer comunicação oficial ou consultas mais complexas, por favor, contate-nos por e-mail: altairsossai@gmail.com. Estamos ansiosos para proporcionar a você uma experiência de torneio excelente e memorável!
 
 ## Site do Torneio
 
-Para mais informações detalhadas e atualizadas sobre o torneio, visite o nosso site oficial: [http://l4d2.com.br/](http://l4d2.com.br/). 
+Para mais informações detalhadas e atualizadas sobre o torneio, visite o nosso site oficial: [http://torneio.l4d2.com.br/](http://torneio.l4d2.com.br/). 
 
 No site, você encontrará:
 
@@ -208,8 +151,6 @@ No site, você encontrará:
 - **Equipes**: Uma lista de todas as equipes participantes, com detalhes sobre seus respectivos jogadores.
 
 - **Jogadores**: Perfis individuais dos jogadores participantes, com informações sobre seu desempenho no torneio.
-
-- **Resultados**: Os resultados atualizados de todas as partidas da primeira e segunda fase do torneio. 
 
 Visite regularmente o site para se manter atualizado sobre o progresso do torneio e acompanhar o desempenho de suas equipes e jogadores favoritos!
 
