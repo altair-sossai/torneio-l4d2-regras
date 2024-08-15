@@ -24,17 +24,22 @@ Bem-vindo ao Torneio de Left 4 Dead 2 utilizando o modo de jogo **ZoneMod**! Est
 - As equipes serão emparelhadas (e.g., equipe A vs. equipe B) e a vencedora de cada confronto avança na competição.
 - A equipe que perder a md3 será eliminada do torneio.
 
+## Escolha das Campanhas
+- Cada equipe deverá escolher uma campanha para jogar. Caso seja necessário um terceiro jogo, a campanha será definida por sorteio.
+- Cada campanha só pode ser escolhida uma única vez por equipe durante o torneio. Por exemplo, se a equipe escolher "Dark Carnival" para o primeiro jogo, essa campanha não poderá ser escolhida novamente até o final do torneio.
+- Se uma equipe vencer as duas primeiras partidas, o terceiro jogo não será realizado.
+
 ## Datas dos Jogos
 - As equipes devem, em comum acordo, definir as datas dos seus jogos.
 - Após a confirmação da data entre as duas equipes, só será possível remarcar se ambas concordarem.
 - Os jogos devem ocorrer preferencialmente **às sextas, sábados ou domingos após as 19h**.
+- Será tolerado um atraso de até **15 minutos** para o início da partida. Após esse período, o jogo deve começar.
 
 ## Regras
 - O respeito entre as equipes é fundamental. **Ofensas** não serão toleradas.
 - Jogadores que explorarem **bugs de forma intencional** serão desclassificados.
 - Os administradores devem interferir o mínimo possível nos jogos.
 - **Trapaças e cheats** estão estritamente proibidos.
-- Será tolerado um atraso de até **15 minutos** para o início da partida. Após esse período, o jogo deve começar.
 
 ## Transmissões
 - As transmissões serão feitas pela **Twitch** no canal oficial do torneio: [TorneioL4D2 - Twitch](https://www.twitch.tv/torneiol4d2).
