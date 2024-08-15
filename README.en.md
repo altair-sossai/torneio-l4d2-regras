@@ -1,7 +1,8 @@
 # 4th Left 4 Dead 2 Tournament - ZoneMod
 
-[Versión en español](README.es.md)
-[Versão em português](README.md)
+[![Español](https://flagcdn.com/w20/es.png) Versión en español](README.es.md)
+
+[![Português](https://flagcdn.com/w20/br.png) Versão em português](README.md)
 
 ## Overview
 Welcome to the Left 4 Dead 2 Tournament using the **ZoneMod** game mode! This tournament brings together players from all over Brazil in a fierce competition. Below are the important details about the tournament:
