@@ -1,5 +1,7 @@
 # Torneio Left 4 Dead 2 - ZoneMod
 
+[English Version](README-en.md)
+
 ## Visão Geral
 Bem-vindo ao Torneio de Left 4 Dead 2 utilizando o modo de jogo **ZoneMod**! Este torneio reúne jogadores de todo o Brasil em uma competição acirrada. Abaixo estão as informações importantes sobre o torneio:
 
