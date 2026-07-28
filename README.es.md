@@ -1,63 +1,94 @@
-# 4° Torneo de Left 4 Dead 2 - ZoneMod
+# Torneo de Left 4 Dead 2 2026 - ZoneMod v2.9.1b
 
 [![English](https://flagcdn.com/w20/us.png) English Version](README.en.md)
 
 [![Português](https://flagcdn.com/w20/br.png) Versão em português](README.md)
 
 ## Visión General
-¡Bienvenido al Torneo de Left 4 Dead 2 utilizando el modo de juego **ZoneMod**! Este torneo reúne jugadores de todo Brasil en una competencia intensa. A continuación, se presentan los detalles importantes sobre el torneo:
 
+Bienvenido al Torneo de Left 4 Dead 2 2026, disputado con el modo de juego **ZoneMod v2.9.1b**. Esta edición tendrá un formato más corto y dinámico, con **16 jugadores**, divididos en **4 equipos** de 4 jugadores.
+
+- **Formato:** eliminación directa, con semifinales y final al mejor de tres (MD3)
+- **Total de jugadores:** 16
+- **Total de equipos:** 4
+- **Fecha del torneo:** por definir
+- **Premiación:** por definir
 - **Archivos del servidor:** [GitHub - L4D2 Zone Server](https://github.com/altair-sossai/l4d2-zone-server)
-- **IP del servidor:** `181.214.221.198:27015`
+- **IP del servidor:** `124.198.128.93:27015`
 - **Sitio oficial del torneo:** [https://torneio.l4d2.com.br/](https://torneio.l4d2.com.br/)
-- **Responsable del torneo:** [Altair Sossai](https://steamcommunity.com/id/altairsossai/)
-- **Contacto vía WhatsApp:** +55 (19) 99698-8174
+- **Organizador del torneo:** [Altair Sossai](https://steamcommunity.com/id/altairsossai/)
+- **Contacto por WhatsApp:** +55 (19) 99698-8174
 
-## Formación de Equipos
-- El torneo contará con **8 equipos**, cada uno compuesto por **4 jugadores**, sumando un total de **32 jugadores**.
-- No habrá jugadores sustitutos, a menos que sea absolutamente necesario.
-- La administración del torneo seleccionará a los **8 mejores jugadores** como capitanes. Estos capitanes participarán en un sorteo para determinar el orden de selección de los jugadores.
-- El sorteo se realizará en formato serpentina (1-8, 8-1) hasta que todos los equipos estén completos.
-- La fecha del sorteo será comunicada a los capitanes con antelación.
-- Cada equipo debe designar a un jugador como punto de contacto para la comunicación entre la administración y el equipo.
+## Formación de los Equipos
+
+- La administración seleccionará a **4 capitanes**, considerados los 4 mejores jugadores entre los 16 participantes.
+- Se realizará un sorteo para definir el orden de elección de los capitanes.
+- Las elecciones seguirán un formato **serpentina (ida y vuelta)**: en la primera ronda, el orden será **A, B, C, D**; en la siguiente, será **D, C, B, A**.
+- El orden continuará alternándose de esta manera hasta que termine la selección.
+- Las elecciones continuarán hasta que cada capitán haya seleccionado a 3 jugadores y los 4 equipos estén completos, con 4 jugadores cada uno.
+- Una vez formados, los equipos mantendrán sus plantillas definidas durante todo el torneo.
 
 ## Formato de la Competición
-- El torneo seguirá un formato de **eliminación directa** con partidos al **mejor de tres (md3)**.
-- Los equipos se emparejarán (ejemplo: equipo A vs. equipo B, equipo C vs. equipo D), y el ganador de cada enfrentamiento avanzará en la competición.
-- El equipo que pierda la md3 será eliminado del torneo.
 
-![Formato de la Competición](assets/competition-format.jpg)
+- Los 4 equipos comenzarán directamente en las **semifinales**.
+- Un sorteo definirá los enfrentamientos del cuadro.
+- El **Equipo A** se enfrentará al **Equipo B**, mientras que el **Equipo C** se enfrentará al **Equipo D**.
+- Todas las series se disputarán en formato **MD3**.
+- Los ganadores de las semifinales avanzarán a la final.
+- La final seguirá el mismo formato MD3 y determinará al equipo campeón.
+- El equipo que pierda una MD3 quedará eliminado del torneo.
+
+![Formato de la Competición 2026](assets/competition-format-2026.png)
 
 ## Selección de Campañas
-- Cada equipo deberá elegir una campaña para jugar. Si es necesario un tercer partido, la campaña se definirá por sorteo.
-- Cada campaña solo puede ser elegida una vez por equipo durante el torneo. Por ejemplo, si el equipo elige "Dark Carnival" para el primer partido, esa campaña no podrá ser elegida nuevamente hasta el final del torneo.
-- Si un equipo gana los dos primeros partidos, no se jugará el tercer partido.
+
+- En cada MD3, un equipo elegirá la primera campaña y el otro elegirá la segunda.
+- Si la serie queda empatada 1-1, la tercera campaña se definirá por sorteo.
+- Si un equipo gana los dos primeros partidos, el tercero no se disputará.
+- Cada campaña podrá ser elegida solo una vez por equipo durante el torneo. Una campaña definida por sorteo no contará como elección del equipo.
 
 ## Campañas
-- No se utilizarán campañas personalizadas, solo las **campañas originales** del juego.
-- Todas las campañas pueden ser elegidas para los partidos, recordando que ZoneMod configura las campañas de manera diferente al Vanilla. Se utilizará el formato Zone.
+
+- No se utilizarán campañas personalizadas, solamente las **campañas originales** del juego.
+- Todas las campañas originales podrán ser elegidas, teniendo en cuenta las configuraciones propias de **ZoneMod v2.9.1b**.
+
+## Versión del Modo de Juego
+
+- La versión definida inicialmente para el torneo es **ZoneMod v2.9.1b**.
+- Si se publican actualizaciones, parches de seguridad, correcciones u otras mejoras relevantes, la organización podrá aplicarlos. En ese caso, la versión de **ZoneMod v2.9.1b** utilizada en el torneo podrá actualizarse a una versión superior.
+
+## Sustituciones y Asistencia
+
+- **No habrá jugadores sustitutos.**
+- Después de la formación de los equipos, la retirada o ausencia de un jugador no dará derecho a un reemplazo.
+- El equipo afectado deberá jugar únicamente con los integrantes presentes. Si no disputa el enfrentamiento, será descalificado.
 
 ## Durante los Partidos
-- Se tolerará un retraso de hasta **15 minutos** para el inicio del partido. Después de este período, la administración deberá iniciar el juego utilizando el comando `!forcestart`.
-- Cada equipo podrá solicitar hasta 3 pausas utilizando el comando `!pause`.
-- Las pausas no deben exceder los **5 minutos**; de lo contrario, la administración deberá utilizar el comando `!forceunpause`.
-- Al inicio de cada ronda, los equipos deben utilizar el comando `!ready` dentro de **5 minutos**. Después de este período, la administración deberá iniciar el juego utilizando el comando `!forcestart`.
 
-## Fechas de los Partidos
-- Los equipos deben acordar mutuamente las fechas de sus partidos.
-- Después de que la fecha sea confirmada entre ambos equipos, solo será posible reprogramar si ambos equipos están de acuerdo.
-- Los partidos deben celebrarse preferentemente **los viernes, sábados o domingos después de las 19:00 horas**.
+- Se tolerará un retraso de hasta **15 minutos** antes del inicio del partido. Después de ese período, la administración podrá iniciar el juego usando el comando `!forcestart`.
+- Cada equipo podrá solicitar hasta 3 pausas usando el comando `!pause`.
+- Las pausas no deberán superar los **5 minutos**. Después de ese período, la administración podrá usar el comando `!forceunpause`.
+- Al inicio de cada ronda, los equipos deberán usar el comando `!ready` dentro de **5 minutos**. Después de ese período, la administración podrá iniciar el juego usando el comando `!forcestart`.
 
-## Reglas
-- El respeto entre los equipos es fundamental. **Las ofensas** no serán toleradas.
-- Los jugadores que exploten **bugs intencionalmente** serán descalificados.
-- Los administradores deben interferir lo menos posible en los partidos.
-- **Trampas y cheats** están estrictamente prohibidos.
+## Fecha y Premiación
+
+- La fecha del torneo será definida y anunciada por la organización.
+- La premiación será definida y anunciada por la organización.
+
+## Reglas Generales
+
+- Los jugadores que exploten **bugs de forma intencional** podrán ser descalificados.
+- Los administradores deberán interferir lo menos posible en los partidos.
+- Las situaciones no previstas en este reglamento serán evaluadas por la administración del torneo.
 
 ## Transmisiones
-- Las transmisiones se realizarán a través de **Twitch** en el canal oficial del torneo: [TorneioL4D2 - Twitch](https://www.twitch.tv/torneiol4d2).
-- Los partidos estarán disponibles en **YouTube**: [Torneo Left 4 Dead 2 Brasil - YouTube](https://www.youtube.com/@TorneioLeft4Dead2Brasil).
+
+- Los partidos se transmitirán por **Twitch** en el canal oficial del torneo: [TorneioL4D2 - Twitch](https://www.twitch.tv/torneiol4d2).
+- Los partidos también estarán disponibles en **YouTube**: [Torneo Left 4 Dead 2 Brasil - YouTube](https://www.youtube.com/@TorneioLeft4Dead2Brasil).
 
 ## ¿Deseas Participar?
-- Contacta vía WhatsApp: +55 (19) 99698-8174  
-- O a través del perfil en Steam: [Altair Sossai](https://steamcommunity.com/id/altairsossai/)
+
+La participación estará limitada a los 16 jugadores seleccionados.
+
+- Contacta por WhatsApp: +55 (19) 99698-8174
+- O a través del perfil de Steam: [Altair Sossai](https://steamcommunity.com/id/altairsossai/)

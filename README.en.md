@@ -1,63 +1,94 @@
-# 4th Left 4 Dead 2 Tournament - ZoneMod
+# 2026 Left 4 Dead 2 Tournament - ZoneMod v2.9.1b
 
 [![Español](https://flagcdn.com/w20/es.png) Versión en español](README.es.md)
 
 [![Português](https://flagcdn.com/w20/br.png) Versão em português](README.md)
 
 ## Overview
-Welcome to the Left 4 Dead 2 Tournament using the **ZoneMod** game mode! This tournament brings together players from all over Brazil in a fierce competition. Below are the important details about the tournament:
 
-- **Server Files:** [GitHub - L4D2 Zone Server](https://github.com/altair-sossai/l4d2-zone-server)
-- **Server IP:** `181.214.221.198:27015`
-- **Official Tournament Website:** [https://torneio.l4d2.com.br/](https://torneio.l4d2.com.br/)
-- **Tournament Organizer:** [Altair Sossai](https://steamcommunity.com/id/altairsossai/)
-- **Contact via WhatsApp:** +55 (19) 99698-8174
+Welcome to the 2026 Left 4 Dead 2 Tournament, played using the **ZoneMod v2.9.1b** game mode. This edition will feature a shorter, faster format with **16 players**, divided into **4 teams** of 4 players.
+
+- **Format:** single elimination, with best-of-three (Bo3) semifinals and final
+- **Total players:** 16
+- **Total teams:** 4
+- **Tournament date:** to be announced
+- **Prize:** to be announced
+- **Server files:** [GitHub - L4D2 Zone Server](https://github.com/altair-sossai/l4d2-zone-server)
+- **Server IP:** `124.198.128.93:27015`
+- **Official tournament website:** [https://torneio.l4d2.com.br/](https://torneio.l4d2.com.br/)
+- **Tournament organizer:** [Altair Sossai](https://steamcommunity.com/id/altairsossai/)
+- **WhatsApp contact:** +55 (19) 99698-8174
 
 ## Team Formation
-- The tournament will feature **8 teams**, each consisting of **4 players**, totaling **32 players**.
-- There will be no substitute players unless absolutely necessary.
-- The tournament administration will select the **8 best players** as captains. These captains will participate in a draw to determine the order of player selection.
-- The draw will follow a serpentine format (1-8, 8-1) until all teams are complete.
-- The draw date will be communicated to the captains in advance.
-- Each team must designate a player as the focal point for communication between the administration and the team.
+
+- The administration will select **4 captains**, considered the 4 best players among the 16 participants.
+- A draw will determine the captains' picking order.
+- Picks will follow a **serpentine (back-and-forth) format**: the first round will proceed **A, B, C, D**, and the following round will proceed **D, C, B, A**.
+- The order will continue alternating in this way until the draft is complete.
+- The picks will continue until every captain has selected 3 players and all 4 teams are complete, with 4 players each.
+- Once formed, team rosters will remain locked for the entire tournament.
 
 ## Competition Format
-- The tournament will follow a **single-elimination** format with **best of three (Bo3)** matches.
-- Teams will be paired (e.g., Team A vs. Team B, Team C vs. Team D), and the winner of each match advances in the competition.
-- The team that loses the Bo3 will be eliminated from the tournament.
 
-![Competition Format](assets/competition-format.jpg)
+- All 4 teams will start directly in the **semifinals**.
+- A draw will determine the bracket matchups.
+- **Team A** will face **Team B**, while **Team C** will face **Team D**.
+- Every series will be played as a **Bo3**.
+- The semifinal winners will advance to the final.
+- The final will follow the same Bo3 format and determine the champion.
+- The team that loses a Bo3 will be eliminated from the tournament.
+
+![2026 Competition Format](assets/competition-format-2026.png)
 
 ## Campaign Selection
-- Each team must choose a campaign to play. If a third match is necessary, the campaign will be selected by a draw.
-- Each campaign can only be chosen once per team during the tournament. For example, if a team selects "Dark Carnival" for the first game, that campaign cannot be selected again until the end of the tournament.
-- If a team wins the first two matches, the third game will not be played.
+
+- In each Bo3, one team will choose the first campaign and the other team will choose the second.
+- If the series is tied 1-1, the third campaign will be determined by a draw.
+- If one team wins the first two matches, the third will not be played.
+- Each campaign may be chosen only once per team during the tournament. A campaign determined by a draw will not count as that team's choice.
 
 ## Campaigns
-- No custom campaigns will be used, only the **original campaigns** from the game.
-- All campaigns can be chosen for matches, with ZoneMod configuring the campaigns differently from Vanilla. The Zone format will be used.
 
-## During the Matches
-- A delay of up to **15 minutes** will be tolerated for the start of the match. After this period, the administration must start the game using the `!forcestart` command.
-- Each team can request up to 3 pauses using the `!pause` command.
-- Pauses should not exceed **5 minutes**; otherwise, the administration must use the `!forceunpause` command.
-- At the start of each round, teams must use the `!ready` command within **5 minutes**. After this period, the administration must start the game using the `!forcestart` command.
+- No custom campaigns will be used, only the game's **original campaigns**.
+- Every original campaign may be selected, taking the specific configurations of **ZoneMod v2.9.1b** into account.
 
-## Match Dates
-- Teams must mutually agree on the dates of their matches.
-- After the date is confirmed between the two teams, rescheduling is only possible if both teams agree.
-- Matches should preferably take place **on Fridays, Saturdays, or Sundays after 7 PM**.
+## Game Mode Version
 
-## Rules
-- Respect between teams is paramount. **Insults** will not be tolerated.
-- Players who intentionally exploit **bugs** will be disqualified.
-- Administrators should interfere as little as possible in the matches.
-- **Cheating and hacks** are strictly prohibited.
+- The version initially selected for the tournament is **ZoneMod v2.9.1b**.
+- If updates, security patches, bug fixes, or other relevant improvements become available, the organizers may apply them. In that case, the **ZoneMod v2.9.1b** version used in the tournament may be upgraded to a newer version.
+
+## Substitutions and Attendance
+
+- **There will be no substitute players.**
+- Once the teams have been formed, a player's withdrawal or absence will not allow a replacement.
+- The affected team must play with only the members who are present. If it does not play the matchup, it will be disqualified.
+
+## During Matches
+
+- A delay of up to **15 minutes** will be tolerated before the match starts. After that period, the administration may start the game using the `!forcestart` command.
+- Each team may request up to 3 pauses using the `!pause` command.
+- Pauses must not exceed **5 minutes**. After that period, the administration may use the `!forceunpause` command.
+- At the start of each round, teams must use the `!ready` command within **5 minutes**. After that period, the administration may start the game using the `!forcestart` command.
+
+## Date and Prize
+
+- The tournament date will be determined and announced by the organizers.
+- The prize will be determined and announced by the organizers.
+
+## General Rules
+
+- Players who intentionally exploit **bugs** may be disqualified.
+- Administrators should interfere as little as possible during matches.
+- Situations not covered by these rules will be evaluated by the tournament administration.
 
 ## Broadcasts
-- Broadcasts will be made via **Twitch** on the official tournament channel: [TorneioL4D2 - Twitch](https://www.twitch.tv/torneiol4d2).
-- Matches will be available on **YouTube**: [Torneio Left 4 Dead 2 Brasil - YouTube](https://www.youtube.com/@TorneioLeft4Dead2Brasil).
+
+- Matches will be broadcast on **Twitch** through the official tournament channel: [TorneioL4D2 - Twitch](https://www.twitch.tv/torneiol4d2).
+- Matches will also be available on **YouTube**: [Torneio Left 4 Dead 2 Brasil - YouTube](https://www.youtube.com/@TorneioLeft4Dead2Brasil).
 
 ## Interested in Participating?
-- Contact via WhatsApp: +55 (19) 99698-8174  
+
+Participation will be limited to the 16 selected players.
+
+- Contact via WhatsApp: +55 (19) 99698-8174
 - Or through the Steam profile: [Altair Sossai](https://steamcommunity.com/id/altairsossai/)
