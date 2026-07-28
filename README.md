@@ -1,4 +1,4 @@
-# Torneio de Left 4 Dead 2 2026 - ZoneMod v2.9.1b
+# Torneio de Left 4 Dead 2 - 2026 - ZoneMod v2.9.1b
 
 [![English](https://flagcdn.com/w20/us.png) English Version](README.en.md)
 
@@ -6,16 +6,16 @@
 
 ## Visão Geral
 
-Bem-vindo ao Torneio de Left 4 Dead 2 2026, disputado no modo de jogo **ZoneMod v2.9.1b**. Esta edição terá um formato mais curto e dinâmico, com **16 jogadores**, divididos em **4 equipes** de 4 jogadores.
+Bem-vindo ao Torneio de Left 4 Dead 2 - 2026, disputado no modo de jogo **ZoneMod v2.9.1b**. Esta edição terá um formato mais curto e dinâmico, com **16 jogadores**, divididos em **4 equipes** de 4 jogadores.
 
 - **Formato:** mata-mata, com semifinais e final em melhor de três (MD3)
 - **Total de jogadores:** 16
 - **Total de equipes:** 4
 - **Data do torneio:** a definir
-- **Premiação:** a definir
+- **Premiação inicial:** R$ 800,00
 - **Arquivos do servidor:** [GitHub - L4D2 Zone Server](https://github.com/altair-sossai/l4d2-zone-server)
 - **IP do servidor:** `124.198.128.93:27015`
-- **Site oficial do torneio:** [https://torneio.l4d2.com.br/](https://torneio.l4d2.com.br/)
+- **Site oficial do torneio:** ainda não está online. Em breve estará disponível em [https://torneio.l4d2.com.br/](https://torneio.l4d2.com.br/).
 - **Responsável pelo torneio:** [Altair Sossai](https://steamcommunity.com/id/altairsossai/)
 - **Contato via WhatsApp:** (19) 99698-8174
 
@@ -73,7 +73,8 @@ Bem-vindo ao Torneio de Left 4 Dead 2 2026, disputado no modo de jogo **ZoneMod 
 ## Data e Premiação
 
 - A data do torneio ainda será definida e divulgada pela organização.
-- A premiação ainda será definida e divulgada pela organização.
+- A premiação inicial será de **R$ 800,00**.
+- Esse valor poderá ser alterado conforme a organização avançar nas definições do torneio.
 
 ## Regras Gerais
 

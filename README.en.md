@@ -12,10 +12,10 @@ Welcome to the 2026 Left 4 Dead 2 Tournament, played using the **ZoneMod v2.9.1b
 - **Total players:** 16
 - **Total teams:** 4
 - **Tournament date:** to be announced
-- **Prize:** to be announced
+- **Initial prize:** R$ 800,00
 - **Server files:** [GitHub - L4D2 Zone Server](https://github.com/altair-sossai/l4d2-zone-server)
 - **Server IP:** `124.198.128.93:27015`
-- **Official tournament website:** [https://torneio.l4d2.com.br/](https://torneio.l4d2.com.br/)
+- **Official tournament website:** not online yet. It will soon be available at [https://torneio.l4d2.com.br/](https://torneio.l4d2.com.br/).
 - **Tournament organizer:** [Altair Sossai](https://steamcommunity.com/id/altairsossai/)
 - **WhatsApp contact:** +55 (19) 99698-8174
 
@@ -73,7 +73,8 @@ Welcome to the 2026 Left 4 Dead 2 Tournament, played using the **ZoneMod v2.9.1b
 ## Date and Prize
 
 - The tournament date will be determined and announced by the organizers.
-- The prize will be determined and announced by the organizers.
+- The initial prize will be **R$ 800,00**.
+- This amount may change as the organizers make further decisions about the tournament.
 
 ## General Rules
 
