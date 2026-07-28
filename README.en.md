@@ -15,7 +15,7 @@ Welcome to the 2026 Left 4 Dead 2 Tournament, played using the **ZoneMod v2.9.1b
 - **Initial prize:** R$ 800,00
 - **Server files:** [GitHub - L4D2 Zone Server](https://github.com/altair-sossai/l4d2-zone-server)
 - **Server IP:** `124.198.128.93:27015`
-- **Official tournament website:** not online yet. It will soon be available at [https://torneio.l4d2.com.br/](https://torneio.l4d2.com.br/).
+- **Official tournament website:** [https://torneio.l4d2.com.br/](https://torneio.l4d2.com.br/)
 - **Tournament organizer:** [Altair Sossai](https://steamcommunity.com/id/altairsossai/)
 - **WhatsApp contact:** +55 (19) 99698-8174
 

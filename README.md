@@ -15,7 +15,7 @@ Bem-vindo ao Torneio de Left 4 Dead 2 - 2026, disputado no modo de jogo **ZoneMo
 - **Premiação inicial:** R$ 800,00
 - **Arquivos do servidor:** [GitHub - L4D2 Zone Server](https://github.com/altair-sossai/l4d2-zone-server)
 - **IP do servidor:** `124.198.128.93:27015`
-- **Site oficial do torneio:** ainda não está online. Em breve estará disponível em [https://torneio.l4d2.com.br/](https://torneio.l4d2.com.br/).
+- **Site oficial do torneio:** [https://torneio.l4d2.com.br/](https://torneio.l4d2.com.br/)
 - **Responsável pelo torneio:** [Altair Sossai](https://steamcommunity.com/id/altairsossai/)
 - **Contato via WhatsApp:** (19) 99698-8174
 
