@@ -11,7 +11,7 @@ Welcome to the 2026 Left 4 Dead 2 Tournament, played using the **ZoneMod v2.9.1b
 - **Format:** single elimination, with best-of-three (Bo3) semifinals and final
 - **Total players:** 16
 - **Total teams:** 4
-- **Tournament date:** to be announced
+- **Match dates:** agreed upon by the teams, subject to the deadlines established by the administration
 - **Initial prize:** R$ 800,00
 - **Server files:** [GitHub - L4D2 Zone Server](https://github.com/altair-sossai/l4d2-zone-server)
 - **Server IP:** `124.198.128.93:27015`
@@ -63,6 +63,15 @@ Welcome to the 2026 Left 4 Dead 2 Tournament, played using the **ZoneMod v2.9.1b
 - Once the teams have been formed, a player's withdrawal or absence will not allow a replacement.
 - The affected team must play with only the members who are present. If it does not play the matchup, it will be disqualified.
 
+## Match Scheduling and Rescheduling
+
+- The teams themselves must agree on the date of each match. The administration will not interfere in this decision.
+- The administration will establish a deadline for each match, and the teams must organize themselves to play by that deadline.
+- The deadline is not strict. If both teams agree, the match may be played after it.
+- The purpose of the deadline is to prevent matches from being delayed for too long and the tournament from lasting longer than necessary.
+- A match may only be rescheduled if both teams agree. If either team disagrees, the match must take place on the previously agreed date.
+- On match day, the rules regarding delays and all other provisions of these rules apply as usual.
+
 ## During Matches
 
 - A delay of up to **15 minutes** will be tolerated before the match starts. After that period, the administration may start the game using the `!forcestart` command.
@@ -70,9 +79,8 @@ Welcome to the 2026 Left 4 Dead 2 Tournament, played using the **ZoneMod v2.9.1b
 - Pauses must not exceed **5 minutes**. After that period, the administration may use the `!forceunpause` command.
 - At the start of each round, teams must use the `!ready` command within **5 minutes**. After that period, the administration may start the game using the `!forcestart` command.
 
-## Date and Prize
+## Prize
 
-- The tournament date will be determined and announced by the organizers.
 - The initial prize will be **R$ 800,00**.
 - This amount may change as the organizers make further decisions about the tournament.
 

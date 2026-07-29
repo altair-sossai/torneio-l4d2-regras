@@ -11,7 +11,7 @@ Bienvenido al Torneo de Left 4 Dead 2 2026, disputado con el modo de juego **Zon
 - **Formato:** eliminación directa, con semifinales y final al mejor de tres (MD3)
 - **Total de jugadores:** 16
 - **Total de equipos:** 4
-- **Fecha del torneo:** por definir
+- **Fechas de los partidos:** acordadas entre los equipos, respetando los plazos establecidos por la administración
 - **Premiación inicial:** R$ 800,00
 - **Archivos del servidor:** [GitHub - L4D2 Zone Server](https://github.com/altair-sossai/l4d2-zone-server)
 - **IP del servidor:** `124.198.128.93:27015`
@@ -63,6 +63,15 @@ Bienvenido al Torneo de Left 4 Dead 2 2026, disputado con el modo de juego **Zon
 - Después de la formación de los equipos, la retirada o ausencia de un jugador no dará derecho a un reemplazo.
 - El equipo afectado deberá jugar únicamente con los integrantes presentes. Si no disputa el enfrentamiento, será descalificado.
 
+## Programación y Reprogramación de los Partidos
+
+- Los propios equipos deberán acordar entre sí la fecha de cada partido. La administración no intervendrá en esta decisión.
+- La administración establecerá una fecha límite para cada partido, y los equipos deberán organizarse para disputarlo dentro de ese plazo.
+- La fecha límite no es rígida. Si ambos equipos están de acuerdo, el partido podrá disputarse después del plazo.
+- El objetivo de la fecha límite es evitar que los partidos se retrasen demasiado y que el torneo se prolongue más de lo necesario.
+- Un partido solo podrá reprogramarse si ambos equipos están de acuerdo. Si uno de ellos no está de acuerdo, el partido deberá disputarse en la fecha acordada previamente.
+- El día del partido se aplicarán normalmente las reglas sobre retrasos y todas las demás normas de este reglamento.
+
 ## Durante los Partidos
 
 - Se tolerará un retraso de hasta **15 minutos** antes del inicio del partido. Después de ese período, la administración podrá iniciar el juego usando el comando `!forcestart`.
@@ -70,9 +79,8 @@ Bienvenido al Torneo de Left 4 Dead 2 2026, disputado con el modo de juego **Zon
 - Las pausas no deberán superar los **5 minutos**. Después de ese período, la administración podrá usar el comando `!forceunpause`.
 - Al inicio de cada ronda, los equipos deberán usar el comando `!ready` dentro de **5 minutos**. Después de ese período, la administración podrá iniciar el juego usando el comando `!forcestart`.
 
-## Fecha y Premiación
+## Premiación
 
-- La fecha del torneo será definida y anunciada por la organización.
 - La premiación inicial será de **R$ 800,00**.
 - Este valor podrá cambiar a medida que la organización avance en las definiciones del torneo.
 

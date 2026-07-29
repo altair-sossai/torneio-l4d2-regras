@@ -11,7 +11,7 @@ Bem-vindo ao Torneio de Left 4 Dead 2 - 2026, disputado no modo de jogo **ZoneMo
 - **Formato:** mata-mata, com semifinais e final em melhor de três (MD3)
 - **Total de jogadores:** 16
 - **Total de equipes:** 4
-- **Data do torneio:** a definir
+- **Datas dos jogos:** combinadas entre as equipes, observando os prazos estabelecidos pela administração
 - **Premiação inicial:** R$ 800,00
 - **Arquivos do servidor:** [GitHub - L4D2 Zone Server](https://github.com/altair-sossai/l4d2-zone-server)
 - **IP do servidor:** `124.198.128.93:27015`
@@ -63,6 +63,15 @@ Bem-vindo ao Torneio de Left 4 Dead 2 - 2026, disputado no modo de jogo **ZoneMo
 - Depois da formação das equipes, a desistência ou ausência de um jogador não dará direito a reposição.
 - A equipe afetada deverá jogar somente com os integrantes presentes. Caso não dispute o confronto, será desclassificada.
 
+## Agendamento e Remarcação dos Jogos
+
+- As próprias equipes deverão combinar entre si a data de cada jogo. A administração não interferirá nessa definição.
+- A administração estabelecerá uma data limite para a realização de cada jogo, e as equipes deverão se organizar para disputar a partida até esse prazo.
+- A data limite não é rígida. Se ambas as equipes estiverem de acordo, o jogo poderá ser realizado depois do prazo.
+- O objetivo da data limite é evitar que os jogos se estendam por muito tempo e que o campeonato se prolongue além do necessário.
+- Um jogo só poderá ser remarcado com a concordância das duas equipes. Se uma delas não concordar, a partida deverá acontecer na data previamente combinada.
+- No dia do jogo, aplicam-se normalmente as regras de atraso e as demais normas deste regulamento.
+
 ## Durante os Jogos
 
 - Será tolerado um atraso de até **15 minutos** para o início da partida. Após esse período, a administração poderá iniciar o jogo usando o comando `!forcestart`.
@@ -70,9 +79,8 @@ Bem-vindo ao Torneio de Left 4 Dead 2 - 2026, disputado no modo de jogo **ZoneMo
 - As pausas não deverão exceder **5 minutos**. Após esse período, a administração poderá utilizar o comando `!forceunpause`.
 - No início de cada round, as equipes deverão utilizar o comando `!ready` dentro de **5 minutos**. Após esse período, a administração poderá iniciar o jogo usando o comando `!forcestart`.
 
-## Data e Premiação
+## Premiação
 
-- A data do torneio ainda será definida e divulgada pela organização.
 - A premiação inicial será de **R$ 800,00**.
 - Esse valor poderá ser alterado conforme a organização avançar nas definições do torneio.
 
