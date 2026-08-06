@@ -38,19 +38,19 @@ Cada capitão escolhe **3 jogadores**, totalizando **12 escolhas** em 3 rodadas:
 <td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561198034345454/"><img src="https://avatars.steamstatic.com/a8d8281b02fc6680732de35cee91b3b832874a83_full.jpg" width="90"><br>(((PEEEEII!!!))))))=></a></td>
 <td align="center" width="150"><a href="https://steamcommunity.com/id/ukog/"><img src="https://avatars.steamstatic.com/1fb91a7c1b9bc938b7f413c54835a2df77c0f802_full.jpg" width="90"><br>(LoD) Adeilson</a></td>
 <td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199196110803/"><img src="https://avatars.steamstatic.com/508a2081114d882a1c6070ec359a2ec4d093e2f0_full.jpg" width="90"><br>Arsenall</a></td>
-<td align="center" width="150"><a href="https://steamcommunity.com/id/altairsossai/"><img src="https://avatars.steamstatic.com/d54cf4401294dbce65506d2f598c113660ce6ef0_full.jpg" width="90"><br><s>Altair</s></a><br>✅ Equipe B</td>
+<td align="center" width="150"><a href="https://steamcommunity.com/id/altairsossai/"><img src="https://avatars.steamstatic.com/d54cf4401294dbce65506d2f598c113660ce6ef0_full.jpg" width="90"><br><s>Altair</s></a><br>2️⃣ Equipe B</td>
 </tr>
 <tr>
 <td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199091995445/"><img src="https://avatars.steamstatic.com/dc03e2202e2dab6381f94256e2d7f309e16a2909_full.jpg" width="90"><br>bX™</a></td>
-<td align="center" width="150"><a href="https://steamcommunity.com/id/fearw33/"><img src="https://avatars.steamstatic.com/5a99a5887be2b638975286453f63906ef5eb0d43_full.jpg" width="90"><br><s>fear</s></a><br>✅ Equipe C</td>
+<td align="center" width="150"><a href="https://steamcommunity.com/id/fearw33/"><img src="https://avatars.steamstatic.com/5a99a5887be2b638975286453f63906ef5eb0d43_full.jpg" width="90"><br><s>fear</s></a><br>3️⃣ Equipe C</td>
 <td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199816195689/"><img src="https://avatars.steamstatic.com/04b99e02a6b53a15334c35149fdcc4d99470e9c8_full.jpg" width="90"><br>Feeh</a></td>
-<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199840839030/"><img src="https://avatars.steamstatic.com/a9c8913fba7894d2e0849a97646b19ab4beb2a03_full.jpg" width="90"><br><s>spw</s></a><br>✅ Equipe D</td>
+<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199840839030/"><img src="https://avatars.steamstatic.com/a9c8913fba7894d2e0849a97646b19ab4beb2a03_full.jpg" width="90"><br><s>spw</s></a><br>4️⃣ Equipe D</td>
 </tr>
 <tr>
-<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561198260753359/"><img src="https://avatars.steamstatic.com/dd5301e83ce6fc5f08aadf5ee395f578bb751954_full.jpg" width="90"><br><s>tom</s></a><br>✅ Equipe C</td>
-<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199248670342/"><img src="https://avatars.steamstatic.com/a28912d0c09e23ec54c331b6ca7f2ed8f9935ace_full.jpg" width="90"><br><s>vorkyss</s></a><br>✅ Equipe B</td>
-<td align="center" width="150"><a href="https://steamcommunity.com/id/skyfl0ck/"><img src="https://avatars.steamstatic.com/e55f5dccb9d4c17aaa4d6f0d6efab161f11c4c36_full.jpg" width="90"><br><s>neo</s></a><br>✅ Equipe A</td>
-<td align="center" width="150"><a href="https://steamcommunity.com/id/Zenk123/"><img src="https://avatars.steamstatic.com/6e56e17bc4add349298f955367f0987fa93e31f9_full.jpg" width="90"><br><s>Zenk</s></a><br>✅ Equipe D</td>
+<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561198260753359/"><img src="https://avatars.steamstatic.com/dd5301e83ce6fc5f08aadf5ee395f578bb751954_full.jpg" width="90"><br><s>tom</s></a><br>3️⃣ Equipe C</td>
+<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199248670342/"><img src="https://avatars.steamstatic.com/a28912d0c09e23ec54c331b6ca7f2ed8f9935ace_full.jpg" width="90"><br><s>vorkyss</s></a><br>2️⃣ Equipe B</td>
+<td align="center" width="150"><a href="https://steamcommunity.com/id/skyfl0ck/"><img src="https://avatars.steamstatic.com/e55f5dccb9d4c17aaa4d6f0d6efab161f11c4c36_full.jpg" width="90"><br><s>neo</s></a><br>1️⃣ Equipe A</td>
+<td align="center" width="150"><a href="https://steamcommunity.com/id/Zenk123/"><img src="https://avatars.steamstatic.com/6e56e17bc4add349298f955367f0987fa93e31f9_full.jpg" width="90"><br><s>Zenk</s></a><br>4️⃣ Equipe D</td>
 </tr>
 </table>
 
