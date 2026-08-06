@@ -39,8 +39,8 @@ Cada capitão escolheu **3 jogadores**, totalizando **12 escolhas** em 3 rodadas
 <tr>
 <td align="center" width="150"><a href="https://steamcommunity.com/id/welcomebigwelcome/"><img src="https://avatars.steamstatic.com/3407e9fdb52130167c0b23994607a336a927c3cb_full.jpg" width="90"><br>👑 ana</a></td>
 <td align="center" width="150"><a href="https://steamcommunity.com/id/skyfl0ck/"><img src="https://avatars.steamstatic.com/e55f5dccb9d4c17aaa4d6f0d6efab161f11c4c36_full.jpg" width="90"><br>neo</a></td>
+<td align="center" width="150"><a href="https://steamcommunity.com/id/altairsossai/"><img src="https://avatars.steamstatic.com/d54cf4401294dbce65506d2f598c113660ce6ef0_full.jpg" width="90"><br>Altair</a></td>
 <td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199816195689/"><img src="https://avatars.steamstatic.com/04b99e02a6b53a15334c35149fdcc4d99470e9c8_full.jpg" width="90"><br>Feeh</a></td>
-<td align="center" width="150"><a href="https://steamcommunity.com/id/ukog/"><img src="https://avatars.steamstatic.com/1fb91a7c1b9bc938b7f413c54835a2df77c0f802_full.jpg" width="90"><br>(LoD) Adeilson</a></td>
 </tr>
 </table>
 
@@ -50,8 +50,8 @@ Cada capitão escolheu **3 jogadores**, totalizando **12 escolhas** em 3 rodadas
 <tr>
 <td align="center" width="150"><a href="https://steamcommunity.com/id/eogbne/"><img src="https://avatars.steamstatic.com/2ad5d6ce4d6c32291f2c2327b09c92b9702b838d_full.jpg" width="90"><br>👑 whyyy</a></td>
 <td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199248670342/"><img src="https://avatars.steamstatic.com/a28912d0c09e23ec54c331b6ca7f2ed8f9935ace_full.jpg" width="90"><br>vorkyss</a></td>
-<td align="center" width="150"><a href="https://steamcommunity.com/id/altairsossai/"><img src="https://avatars.steamstatic.com/d54cf4401294dbce65506d2f598c113660ce6ef0_full.jpg" width="90"><br>Altair</a></td>
-<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199196110803/"><img src="https://avatars.steamstatic.com/508a2081114d882a1c6070ec359a2ec4d093e2f0_full.jpg" width="90"><br>Arsenall</a></td>
+<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199840839030/"><img src="https://avatars.steamstatic.com/a9c8913fba7894d2e0849a97646b19ab4beb2a03_full.jpg" width="90"><br>spw</a></td>
+<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199196110803/"><img src="https://avatars.steamstatic.com/be4d1c7c54af786aac272309335099782417b8bb_full.jpg" width="90"><br>Arsenall</a></td>
 </tr>
 </table>
 
@@ -71,8 +71,8 @@ Cada capitão escolheu **3 jogadores**, totalizando **12 escolhas** em 3 rodadas
 <table>
 <tr>
 <td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199157667941/"><img src="https://avatars.steamstatic.com/c3601e6402be5ef5d1e1f62a6ff9b156e99eeaeb_full.jpg" width="90"><br>👑 hard</a></td>
+<td align="center" width="150"><a href="https://steamcommunity.com/id/euamosorvetedeflocos/"><img src="https://avatars.steamstatic.com/9875a39d1a3f4998ac3a865c2efe91527487c671_full.jpg" width="90"><br>Rakya</a></td>
 <td align="center" width="150"><a href="https://steamcommunity.com/id/Zenk123/"><img src="https://avatars.steamstatic.com/6e56e17bc4add349298f955367f0987fa93e31f9_full.jpg" width="90"><br>Zenk</a></td>
-<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199840839030/"><img src="https://avatars.steamstatic.com/a9c8913fba7894d2e0849a97646b19ab4beb2a03_full.jpg" width="90"><br>spw</a></td>
 <td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199091995445/"><img src="https://avatars.steamstatic.com/dc03e2202e2dab6381f94256e2d7f309e16a2909_full.jpg" width="90"><br>bX™</a></td>
 </tr>
 </table>
