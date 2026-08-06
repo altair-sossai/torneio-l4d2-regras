@@ -25,7 +25,11 @@ Fechamos os **16 jogadores** definidos e seguiremos com esse grupo para o campeo
 
 Foi realizado um sorteio entre os capitães para definir a ordem de quem começa escolhendo os jogadores. As escolhas seguem o formato **serpentina (vai e volta)**, conforme o [regulamento](README.md#formação-das-equipes).
 
-**1️⃣ ana → 2️⃣ whyyy → 3️⃣ waled → 4️⃣ hard**
+Cada capitão escolhe **3 jogadores**, totalizando **12 escolhas** em 3 rodadas:
+
+- **Rodada 1:** 1️⃣ ana → 2️⃣ whyyy → 3️⃣ waled → 4️⃣ hard
+- **Rodada 2:** 5️⃣ hard → 6️⃣ waled → 7️⃣ whyyy → 8️⃣ ana
+- **Rodada 3:** 9️⃣ ana → 🔟 whyyy → 1️⃣1️⃣ waled → 1️⃣2️⃣ hard
 
 ## Jogadores para Escolha
 
@@ -33,19 +37,19 @@ Foi realizado um sorteio entre os capitães para definir a ordem de quem começa
 <tr>
 <td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561198034345454/"><img src="https://avatars.steamstatic.com/a8d8281b02fc6680732de35cee91b3b832874a83_full.jpg" width="90"><br>(((PEEEEII!!!))))))=></a></td>
 <td align="center" width="150"><a href="https://steamcommunity.com/id/ukog/"><img src="https://avatars.steamstatic.com/1fb91a7c1b9bc938b7f413c54835a2df77c0f802_full.jpg" width="90"><br>(LoD) Adeilson</a></td>
-<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199196110803/"><img src="https://avatars.steamstatic.com/508a2081114d882a1c6070ec359a2ec4d093e2f0_full.jpg" width="90"><br>¨¨Verine¨¨</a></td>
+<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199196110803/"><img src="https://avatars.steamstatic.com/508a2081114d882a1c6070ec359a2ec4d093e2f0_full.jpg" width="90"><br>Arsenall</a></td>
 <td align="center" width="150"><a href="https://steamcommunity.com/id/altairsossai/"><img src="https://avatars.steamstatic.com/d54cf4401294dbce65506d2f598c113660ce6ef0_full.jpg" width="90"><br>Altair</a></td>
 </tr>
 <tr>
 <td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199091995445/"><img src="https://avatars.steamstatic.com/dc03e2202e2dab6381f94256e2d7f309e16a2909_full.jpg" width="90"><br>bX™</a></td>
 <td align="center" width="150"><a href="https://steamcommunity.com/id/fearw33/"><img src="https://avatars.steamstatic.com/5a99a5887be2b638975286453f63906ef5eb0d43_full.jpg" width="90"><br>fear</a></td>
 <td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199816195689/"><img src="https://avatars.steamstatic.com/04b99e02a6b53a15334c35149fdcc4d99470e9c8_full.jpg" width="90"><br>Feeh</a></td>
-<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199840839030/"><img src="https://avatars.steamstatic.com/a9c8913fba7894d2e0849a97646b19ab4beb2a03_full.jpg" width="90"><br>Jatobá</a></td>
+<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199840839030/"><img src="https://avatars.steamstatic.com/a9c8913fba7894d2e0849a97646b19ab4beb2a03_full.jpg" width="90"><br>spw</a></td>
 </tr>
 <tr>
 <td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561198260753359/"><img src="https://avatars.steamstatic.com/dd5301e83ce6fc5f08aadf5ee395f578bb751954_full.jpg" width="90"><br>tom</a></td>
-<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199248670342/"><img src="https://avatars.steamstatic.com/a28912d0c09e23ec54c331b6ca7f2ed8f9935ace_full.jpg" width="90"><br>vorkyss</a></td>
-<td align="center" width="150"><a href="https://steamcommunity.com/id/skyfl0ck/"><img src="https://avatars.steamstatic.com/e55f5dccb9d4c17aaa4d6f0d6efab161f11c4c36_full.jpg" width="90"><br>Wit</a></td>
+<td align="center" width="150"><a href="https://steamcommunity.com/profiles/76561199248670342/"><img src="https://avatars.steamstatic.com/a28912d0c09e23ec54c331b6ca7f2ed8f9935ace_full.jpg" width="90"><br><s>vorkyss</s></a><br>✅ Equipe B</td>
+<td align="center" width="150"><a href="https://steamcommunity.com/id/skyfl0ck/"><img src="https://avatars.steamstatic.com/e55f5dccb9d4c17aaa4d6f0d6efab161f11c4c36_full.jpg" width="90"><br><s>neo</s></a><br>✅ Equipe A</td>
 <td align="center" width="150"><a href="https://steamcommunity.com/id/Zenk123/"><img src="https://avatars.steamstatic.com/6e56e17bc4add349298f955367f0987fa93e31f9_full.jpg" width="90"><br>Zenk</a></td>
 </tr>
 </table>
@@ -56,7 +60,7 @@ Conforme cada jogador confirmar, a tabela abaixo será atualizada com a equipe d
 
 | Equipe | Capitão | Jogadores escolhidos |
 | ------ | ------- | -------------------- |
-| Equipe A | 👑 ana ([Daenerys](https://steamcommunity.com/id/welcomebigwelcome/)) | — |
-| Equipe B | 👑 whyyy ([whyyy](https://steamcommunity.com/id/eogbne/)) | — |
-| Equipe C | 👑 waled ([who's waled?](https://steamcommunity.com/id/River-of-the-Painted-Birds/)) | — |
-| Equipe D | 👑 hard ([hard](https://steamcommunity.com/profiles/76561199157667941/)) | — |
+| Equipe A | 👑 [ana](https://steamcommunity.com/id/welcomebigwelcome/) | [neo](https://steamcommunity.com/id/skyfl0ck/) |
+| Equipe B | 👑 [whyyy](https://steamcommunity.com/id/eogbne/) | [vorkyss](https://steamcommunity.com/profiles/76561199248670342/) |
+| Equipe C | 👑 [waled](https://steamcommunity.com/id/River-of-the-Painted-Birds/) | — |
+| Equipe D | 👑 [hard](https://steamcommunity.com/profiles/76561199157667941/) | — |
